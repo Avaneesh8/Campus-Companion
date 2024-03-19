@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608926332206",
+    "project_id": "campus-companion-ww3uof",
+    "storage_bucket": "campus-companion-ww3uof.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608926332206:android:a200827c32bf1b67bab6bf",
+        "android_client_info": {
+          "package_name": "com.avaneesh.campuscompanion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNd7Zz5TAfBLtPj9dyHTNdwnwOd9pfNgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
